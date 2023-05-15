@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/bxunY9z.png">
 </p>
 
 <h1>Exploring Azure and Networking Concepts</h1>
