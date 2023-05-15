@@ -14,6 +14,7 @@ This tutorial outlines exploring Azure and a few network concepts.<br />
 
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop
+- Wireshark
 
 <h2>Operating Systems Used </h2>
 
