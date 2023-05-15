@@ -3,7 +3,7 @@
 
 <h1>Exploring Azure and Networking Concepts</h1>
   
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines exploring Azure and a few network concepts.<br />
 
 
 <h2>Video Demonstration</h2>
