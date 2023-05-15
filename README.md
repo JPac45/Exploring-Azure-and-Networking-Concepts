@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>NEED AZURE logo here
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>Exploring Azure and Networking Concepts</h1>
@@ -12,21 +12,21 @@ This tutorial outlines exploring Azure and a few network concepts.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Linux (Ubuntu)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Observe ICMP Traffic
+- Observe SSH Traffic
+- Observe DHCP Traffic
+- Observe DNS Traffic
+- Observe RDP Traffic
 
 <h2>Configuration Steps</h2>
 
