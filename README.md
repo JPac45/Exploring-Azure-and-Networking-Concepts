@@ -3,7 +3,7 @@
 
 <h1>Exploring Azure and Networking Concepts</h1>
   
-This tutorial outlines exploring Azure and a few network concepts.<br />
+This tutorial outlines exploring Azure, virtual machines and a few network concepts using Wireshark.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -63,7 +63,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <p>
 1. Use Remote Desktop to connect to your Windows 10 Virtual Machine
-<p> 
+<p>
+
+ 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
