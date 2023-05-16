@@ -63,7 +63,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <p>
 1. Use Remote Desktop to connect to your Windows 10 Virtual Machine
-<p>  
+<p> 
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 2. Within your Windows 10 Virtual Machine, Install Wireshark.
 <p>  
 3. Open Wireshark and filter for ICMP traffic only.
