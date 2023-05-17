@@ -49,25 +49,28 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Observe ICMP Traffic
+<b>Observe ICMP Traffic</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Use Remote Desktop to connect to your Windows 10 Virtual Machine
+
 <p>
 
  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Within your Windows 10 Virtual Machine, Install Wireshark.
+
 <p>  
-3. Open Wireshark and filter for ICMP traffic only.
+1. Open Wireshark and filter for ICMP traffic only.
 </p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <br />
 
-- Observe SSH Traffic
+<b>Observe SSH Traffic</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -82,7 +85,7 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 </p>
 <br />
 
-- Observe DHCP Traffic
+<b>Observe DHCP Traffic</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -95,7 +98,7 @@ A. Observe the DHCP traffic appearing in WireShark.
 </p>
 <br />
 
-- Observe DNS Traffic
+<b>Observe DNS Traffic</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -108,7 +111,7 @@ A. Observe the DNS traffic being show in WireShark.
 </p>
 <br />
 
-- Observe RDP Traffic
+<b>Observe RDP Traffic</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
