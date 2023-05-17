@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/bxunY9z.png">
+<img src="https://i.imgur.com/xjc1vr1.png">
 </p>
 
-<h1>Exploring Azure and Networking Concepts</h1>
+<h1>Exploring Networking Concepts</h1>
   
 This tutorial will allow you to observe several types of network traffic between virtual machines in Azure. To observe the network communications, we will install Wireshark .<br />
 
