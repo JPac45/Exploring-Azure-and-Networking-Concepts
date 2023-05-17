@@ -13,7 +13,6 @@ This tutorial will allow you to observe several types of network traffic between
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
-- Remote Desktop
 - Wireshark
 
 <h2>Operating Systems Used </h2>
