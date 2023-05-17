@@ -3,7 +3,7 @@
 
 <h1>Exploring Azure and Networking Concepts</h1>
   
-This tutorial outlines exploring Azure, virtual machines and a few network concepts using Wireshark.<br />
+This tutorial will allow you to observe several types of network traffic between virtual machines in Azure. To observe the network communications, we will install Wireshark .<br />
 
 
 <h2>Video Demonstration</h2>
@@ -23,11 +23,11 @@ This tutorial outlines exploring Azure, virtual machines and a few network conce
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Observe ICMP Traffic
-- Observe SSH Traffic
-- Observe DHCP Traffic
-- Observe DNS Traffic
-- Observe RDP Traffic
+- Observe ICMP (Internet Control Messaage Protocol) Traffic
+- Observe SSH (Secure Shell ; Port 22) Traffic
+- Observe DHCP (Dynamic Host Configuration Protocol; Port 67 & 68) Traffic
+- Observe DNS (Domain Name System; Port 53) Traffic
+- Observe RDP (Remote Desktop Protocol; Port 3389) Traffic
 
 <h2>Configuration Steps</h2>
 
