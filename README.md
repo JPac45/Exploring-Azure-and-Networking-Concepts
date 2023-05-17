@@ -36,7 +36,7 @@ This tutorial will allow you to observe several types of network traffic between
 We will need two VMs in Azure - one with Windows 10 and the other with Ubuntu. This tutorial assumes the two VMs have already been created. Click here for the VM Creation Tutorial. 
 </p>
 <br />
-Installing Wireshark
+<b>Installing Wireshark:</b>
 <p>
 Once in the Windows VM, download Wireshark via Microsof Edge.
 <img src="https://i.imgur.com/iXq2YUF.png">
