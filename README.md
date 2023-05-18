@@ -117,15 +117,14 @@ A. Observe the DNS traffic being show in WireShark.
 </p>
 <br />
 
-<b>Observe RDP Traffic</b>
+<b>Observe RDP (Remote Desktop Protocol) Traffic</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 1. Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
+<p>
+<img src="https://i.imgur.com/iPdafxc.png">
+</p>
+You will observe that there is non-stop communication of data happening. This is because the Remote Desktop Protocol is constantly showing you live data from the Remote VM to your desktop machine. 
 <p>  
-2. Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?
-<p>  
-A. Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted
 </p>
 <br />
