@@ -87,7 +87,6 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 
 <b>Observe DHCP Traffic</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Back in Wireshark, filter for DHCP traffic only
