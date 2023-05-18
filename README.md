@@ -93,7 +93,7 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 <p>
 <img src="https://i.imgur.com/2Fb7hI6.png">
 </p>
-2. From your Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
+2. From your Windows 10 VM, attempt to issue your VM a new IP address from the command line <b>(ipconfig /renew)</b>
 <p>  
 A. Observe the DHCP traffic appearing in WireShark.
 </p>
@@ -103,14 +103,17 @@ A. Observe the DHCP traffic appearing in WireShark.
 
 <b>Observe DNS Traffic</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 1. Back in Wireshark, filter for DNS traffic only
-<p>  
-2. From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+2. From your Windows 10 VM within a command line, use command <b>nslookup</b> to see what google.com and disney.com’s IP addresses are.
 <p>  
 A. Observe the DNS traffic being show in WireShark.
+<p>  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
