@@ -98,7 +98,7 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 <p>  
 A. Observe the DHCP traffic appearing in WireShark.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ClgFH8B.png)">
 </p>
 <br />
 
