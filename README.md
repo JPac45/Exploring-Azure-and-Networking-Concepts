@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/bxunY9z.png">
-<img src="https://i.imgur.com/xjc1vr1.png">
+<img src="https://i.imgur.com/bxunY9z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xjc1vr1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>Exploring Networking Concepts</h1>
@@ -97,7 +97,7 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 <p>  
 A. Observe the DHCP traffic appearing in WireShark.
 </p>
-<img src="https://i.imgur.com/ClgFH8B.png)">
+<img src="https://i.imgur.com/ClgFH8B.png" height="93%" width="93%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -107,13 +107,13 @@ A. Observe the DHCP traffic appearing in WireShark.
 <p>
 1. Back in Wireshark, filter for DNS traffic only
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/62VBXJh.png">
 </p>
 2. From your Windows 10 VM within a command line, use command <b>nslookup</b> to see what google.com and disney.com’s IP addresses are.
 <p>  
 A. Observe the DNS traffic being show in WireShark.
 <p>  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1jZYmvf.png">
 </p>
 <br />
 
