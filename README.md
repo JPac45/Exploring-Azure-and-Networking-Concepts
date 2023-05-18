@@ -92,7 +92,7 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 <p>
 1. Back in Wireshark, filter for DHCP traffic only
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Fb7hI6.png">
 </p>
 2. From your Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
 <p>  
