@@ -72,16 +72,19 @@ Once in the Windows VM, download Wireshark via Microsof Edge.
 
 <b>Observe SSH Traffic</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 1. Back in Wireshark, filter for SSH traffic only
-<p>  
+<p>
+<img src="https://i.imgur.com/K2pCppV.png">
+</p>
 2. From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address)
 <p>  
- A. Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
-</p>
- B. Exit the SSH connection by typing ‘exit’ and pressing [Enter]
+A. Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
+<p>
+B. Exit the SSH connection by typing ‘exit’ and pressing [Enter]
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
