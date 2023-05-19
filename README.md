@@ -65,6 +65,13 @@ In the Windows VM, download Wireshark via Microsof Edge and install.
 3. Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM using cmd: ping[internal ip of Ubuntu VM] -t .  You will see the continuous traffic.
 </p>
 <img src="https://i.imgur.com/F57G7SN.gif">
+</p>
+4. Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic. To disable ICMP, a new rule has to be added. 
+</p>
+Go to: <b>inbound security rule</b>, select <b>ICMP</b>, select <b>Allow</b>, choose <b>200</b> for priority to make it the first rule in the list, name it, and click <b>Add</b>.  You will see the traffic stop in Wireshark.
+</p>
+<img src="https://i.imgur.com/F57G7SN.gif">
+</p>
 <br />
 
 <b>Observe SSH (Secure Shell) Traffic</b>
