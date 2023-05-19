@@ -28,8 +28,7 @@ This tutorial will allow you to observe several types of network traffic between
 <h2>Configuration Steps</h2>
 
 <p>
-<p>
-We will need two VMs in Azure - one with Windows 10 and the other with Ubuntu. This tutorial assumes the two VMs have already been created. Click here for the VM Creation Tutorial. 
+We will need two VMs in Azure - one with Windows 10 and the other with Ubuntu. This tutorial assumes the two VMs have already been created. <a href="https://github.com/JPac45/Creating-VMs-within-Azure">CLICK HERE</a> for the VM Creation Tutorial. 
 </p>
 <br />
 <b>Installing Wireshark:</b>
