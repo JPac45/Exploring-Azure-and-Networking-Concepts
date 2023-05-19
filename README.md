@@ -52,7 +52,7 @@ In the Windows VM, download Wireshark via Microsof Edge and install.
 <p>
 
 <p>  
-1. Open Wireshark and filter for ICMP traffic only.
+1. Open Wireshark and filter for ICMP traffic.
 </p>
 <img src="https://i.imgur.com/RqrKvSf.png">
 </p>
@@ -66,7 +66,7 @@ In the Windows VM, download Wireshark via Microsof Edge and install.
 </p>
 <img src="https://i.imgur.com/F57G7SN.gif">
 </p>
-4. Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic. To disable ICMP, a new rule has to be added. 
+4. Open the Network Security Group in your Ubuntu VM and disable incoming (inbound) ICMP traffic. To disable ICMP, a new rule has to be added. 
 </p>
 Go to: <b>inbound security rule</b>, select <b>ICMP</b>, select <b>Deny</b>, choose <b>200</b> for priority to make it the first rule in the list, name it, and click <b>Add</b>.  You will see the traffic stop in Wireshark.
 </p>
@@ -79,7 +79,7 @@ Go to: <b>inbound security rule</b>, select <b>ICMP</b>, select <b>Deny</b>, cho
 <p>
 
 <p>
-1. Back in Wireshark, filter for SSH traffic only
+1. Back in Wireshark, filter for SSH traffic.
 <p>
 <img src="https://i.imgur.com/K2pCppV.png">
 </p>
@@ -99,7 +99,7 @@ Go to: <b>inbound security rule</b>, select <b>ICMP</b>, select <b>Deny</b>, cho
 <p>
 </p>
 <p>
-1. Back in Wireshark, filter for DHCP traffic only
+1. Back in Wireshark, filter for DHCP traffic.
 <p>
 <img src="https://i.imgur.com/2Fb7hI6.png">
 </p>
@@ -115,7 +115,7 @@ A. Observe the DHCP traffic appearing in WireShark.
 <p>
 
 <p>
-1. Back in Wireshark, filter for DNS traffic only
+1. Back in Wireshark, filter for DNS traffic.
 <p>
 <img src="https://i.imgur.com/62VBXJh.png">
 </p>
@@ -130,7 +130,7 @@ A. Observe the DNS traffic being show in WireShark.
 <b>Observe RDP (Remote Desktop Protocol) Traffic</b>
 <p>
 <p>
-1. Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
+1. Back in Wireshark, filter for RDP traffic (tcp.port == 3389).
 <p>
 <img src="https://i.imgur.com/iPdafxc.png">
 </p>
