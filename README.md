@@ -74,6 +74,7 @@ Go to: <b>inbound security rule</b>, select <b>ICMP</b>, select <b>Deny</b>, cho
 </p>
 <br />
 
+
 <b>Observe SSH (Secure Shell) Traffic</b>
 <p>
 
