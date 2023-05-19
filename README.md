@@ -45,16 +45,9 @@ In the Windows VM, download Wireshark via Microsof Edge and install.
 
 <h2>Post-Install Configuration Objectives</h2>
 
-<b>Observe ICMP Traffic</b>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<b>Observe ICMP (Internet Control Messaage Protocol) Traffic</b>
 <p>
 
-<p>
-
- 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -66,7 +59,7 @@ In the Windows VM, download Wireshark via Microsof Edge and install.
 <p>
 <br />
 
-<b>Observe SSH Traffic</b>
+<b>Observe SSH (Secure Shell) Traffic</b>
 <p>
 
 <p>
@@ -86,7 +79,7 @@ In the Windows VM, download Wireshark via Microsof Edge and install.
 </p>
 <br />
 
-<b>Observe DHCP Traffic</b>
+<b>Observe DHCP (Dynamic Host Configuration Protocol) Traffic</b>
 <p>
 </p>
 <p>
@@ -102,7 +95,7 @@ A. Observe the DHCP traffic appearing in WireShark.
 </p>
 <br />
 
-<b>Observe DNS Traffic</b>
+<b>Observe DNS (Domain Name System) Traffic</b>
 <p>
 
 <p>
