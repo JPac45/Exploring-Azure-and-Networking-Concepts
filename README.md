@@ -7,10 +7,6 @@
 This tutorial will allow you to observe several types of network traffic between virtual machines in Azure. To observe the network communications, we will install Wireshark .<br />
 
 
-<h2>Video Demonstration - Probably will delete this section</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
@@ -38,7 +34,7 @@ We will need two VMs in Azure - one with Windows 10 and the other with Ubuntu. T
 <br />
 <b>Installing Wireshark:</b>
 <p>
-Once in the Windows VM, download Wireshark via Microsof Edge.
+In the Windows VM, download Wireshark via Microsof Edge and install.
 <img src="https://i.imgur.com/iXq2YUF.png">
   
 <img src="https://i.imgur.com/hXRR8WF.png">
